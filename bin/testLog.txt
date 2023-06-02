@@ -1,0 +1,32 @@
+Testing details follow...
+
+Generating graph file and reference log file: Graph01.txt and 
+Running student solution on Graph01.txt...
+gradeJ5.sh: line 223: timeout: command not found
+Error:  SSAD01.txt was not created.
+
+##############################################################
+Generating graph file and reference log file: Graph02.txt and 
+Running student solution on Graph02.txt...
+gradeJ5.sh: line 223: timeout: command not found
+Error:  SSAD02.txt was not created.
+
+##############################################################
+Generating graph file and reference log file: Graph03.txt and 
+Running student solution on Graph03.txt...
+gradeJ5.sh: line 223: timeout: command not found
+Error:  SSAD03.txt was not created.
+
+##############################################################
+Generating graph file and reference log file: Graph04.txt and 
+Running student solution on Graph04.txt...
+gradeJ5.sh: line 223: timeout: command not found
+Error:  SSAD04.txt was not created.
+
+##############################################################
+Generating graph file and reference log file: Graph05.txt and 
+Running student solution on Graph05.txt...
+gradeJ5.sh: line 223: timeout: command not found
+Error:  SSAD05.txt was not created.
+
+##############################################################

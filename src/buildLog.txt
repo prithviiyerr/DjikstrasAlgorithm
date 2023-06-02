@@ -1,0 +1,15 @@
+Beginning build process...
+
+   Unzipping student submission: j5_prithvii.zip
+Archive:  j5_prithvii.zip
+  inflating: buildList.java          
+  inflating: minHeap.java            
+  inflating: SSAD.java               
+  inflating: theList.java            
+Contents of student submission...
+-rw-r--r--  1 sprit  staff  4917 May  4 14:31 SSAD.java
+-rw-r--r--  1 sprit  staff   517 May  2 11:19 buildList.java
+-rw-r--r--  1 sprit  staff  1609 May  4 12:18 minHeap.java
+-rw-r--r--  1 sprit  staff   519 May  4 13:14 theList.java
+
+Compiling student submission:  javac SSAD.java
